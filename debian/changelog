@@ -1,3 +1,11 @@
+php5.5 (5.5.38-4+wmf1+jessie) jessie-wikimedia; urgency=medium
+
+  * Port to jessie
+    https://phabricator.wikimedia.org/T161882
+  * Add .gitreview foroperations/debs/pkg-php/php.git
+
+ -- Antoine Musso <hashar@free.fr>  Tue, 29 Aug 2017 18:33:15 +0200
+
 php5.5 (5.5.38-4) experimental; urgency=medium
 
   * Ignore .list files from timezone database (Closes: #805591)
